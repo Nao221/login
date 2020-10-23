@@ -1,0 +1,60 @@
+body{
+    font-family: sans-serif;
+}
+
+
+#img{
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+    line-height: 80px;
+}
+
+
+
+header{
+    height: 80px;
+    width: 100%;
+    border-bottom: 2px solid lightgray;
+    margin-bottom: 30px;
+}
+    
+header a{
+    float: right;
+    margin-top: -20px;
+} 
+   
+
+
+main{
+   margin: 0 auto;
+    height: 250px;
+    width: 500px;
+    border: 2px solid lightgray;
+    box-shadow:  4px 4px 4px lightgray;
+    border-radius: 10px;
+   text-align: center;
+    padding-top: 20px;
+}
+.submit_button{
+    height: 30px;
+    width: 150px;
+    color: white;
+    background-color: #31A263;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 16px;
+}
+.box{
+    margin: 10px;
+}
+
+footer{
+   padding-top: 20px;
+   text-align: center;
+}
+
+
+

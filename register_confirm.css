@@ -1,0 +1,96 @@
+body{
+    font-family: sans-serif;
+}
+
+
+#img{
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+    line-height: 80px;
+}
+
+
+
+header{
+    height: 80px;
+    width: 100%;
+    border-bottom: 2px solid lightgray;
+    margin-bottom: 30px;
+}
+    
+header a{
+    float: right;
+    
+}
+
+main{
+    margin: 0 auto;
+    height: 500px;
+    width: 700px;
+    border: 2px solid lightgray;
+    box-shadow:  4px 4px 4px lightgray;
+    border-radius: 10px;
+}
+
+main .p{
+    padding-left: 20px;
+}
+
+
+main h2{
+    text-align: center;
+    border-bottom: 2px solid #31A263;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 10px;    
+}
+
+.box{
+    margin: 10px 40px 20px 30px
+}
+
+
+.edit_button{
+    height: 30px;
+    width: 150px;
+    color: white;
+    background-color: lightgray;
+    border-radius: 10px;
+    display: block;
+    margin: 10px;
+    font-size: 16px;
+    
+}
+
+.submit_button{
+    height: 30px;
+    width: 150px;
+    color: white;
+    background-color: #31A263;
+    border-radius: 10px;
+    display: block;
+    margin: 10px;
+    font-size: 16px;
+    
+}
+
+.button{
+    display: flex;
+    width: 400px;
+    margin: 0 auto;
+   
+    
+}
+
+.back_button{
+     height: 30px;
+    width: 150px;
+    color: white;
+    background-color: lightgray;
+    border-radius: 10px;
+    display: block;
+    margin: 10px;
+    font-size: 16px;
+}
+

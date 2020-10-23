@@ -1,0 +1,42 @@
+#img{
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+    line-height: 80px;
+}
+
+
+
+header{
+    height: 80px;
+    width: 100%;
+    border-bottom: 2px solid lightgray;
+    margin-bottom: 30px;
+}
+
+main{
+    margin: 0 auto;
+    height: 200px;
+    width: 500px;
+    border: 2px solid lightgray;
+    box-shadow:  4px 4px 4px lightgray;
+    border-radius: 10px;
+   
+}
+
+main p{
+    text-align: center;
+}
+
+main a{
+    text-align: center;
+}
+    
+header a{
+    float: right;
+     margin-top: -20px;
+}
+   footer{
+    margin-top: 20px;
+    text-align: center;
+}
